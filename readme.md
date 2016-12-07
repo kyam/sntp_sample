@@ -1,14 +1,12 @@
-SNTPƒTƒ“ƒvƒ‹ŽÀ‘•
+SNTPã‚µãƒ³ãƒ—ãƒ«å®Ÿè£…
+================
 
-# ŠT—v
+# æ¦‚è¦
 
-  SNTP v4‚ÌƒTƒ“ƒvƒ‹ŽÀ‘•‚Å‚·B
-  ƒ|[ƒŠƒ“ƒOŠÔŠu‚Í512•b‚É‚µ‚Ä‚¢‚Ü‚·B
+  SNTP v4ã®Windowså‘ã‘ã‚µãƒ³ãƒ—ãƒ«å®Ÿè£…ã§ã™ã€‚
+  ãƒãƒ¼ãƒªãƒ³ã‚°é–“éš”ã¯512ç§’ã«ã—ã¦ã„ã¾ã™ã€‚
 
-# Žg‚¢•û
+# ä½¿ã„æ–¹
 
   sntp.exe ntp.server.org
-
-  ‰ïŽÐ‚ÅŽg‚¤ƒAƒvƒŠ‚Å•K—v‚È‚Ì‚Åì‚Á‚Ä‚Ý‚Ü‚µ‚½B
-  ·•ª‚ª‚¿‚á‚ñ‚Æ“®‚¢‚Ä‚¢‚é‚Ì‚©”÷–­‚ÉS”z‚Å‚·B
 
